@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/rafaelitajahy/clean-node-api.git",
   "author": "rafaelitajahy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
 }
